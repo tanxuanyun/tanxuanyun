@@ -9,3 +9,9 @@
 
 ### Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tanxuanyun)  
+
+### Language
+C | C# | C++ | Python | Java
+
+### Top language used in github
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanxuanyun)](https://github.com/anuraghazra/github-readme-stats)
