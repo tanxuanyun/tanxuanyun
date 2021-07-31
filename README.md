@@ -8,4 +8,4 @@
 - ⚡ Fun fact: I am learning the thai language 
 
 ### Connect with me:
-[<img align="left" alt="Xuan Yun | LinkedIn" width="22px" src="www.linkedin.com/in/tanxuanyun" />][linkedin] 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tanxuanyun)  
