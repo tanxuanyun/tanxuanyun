@@ -6,6 +6,3 @@ As a final year student pursuing a Bachelor's degree in Computer Science at the 
 
 ### Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tanxuanyun)  
-
-### Tech Roadmap
-[![roadmap.sh](https://roadmap.sh/card/tall/66b49786e70e3d5622b097af?variant=dark)](https://roadmap.sh)
