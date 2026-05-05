@@ -1,8 +1,12 @@
 ### Hi there, I'm Xuan Yun
 
-## I'm am a fresh graduate from National University of Singapore pursing a degree in computer science!
+## I'm am a software developer at AnyTechnology
 
-As a fresh graduate from Bachelor's degree in Computer Science at the National University of Singapore, I am eagerly seeking full-time opportunities to apply my expertise in Software Engineering and AI. Throughout my academic journey, I've honed my skills in various programming languages including C, C++, Java, and Python, alongside proficiency in web and app development, data science, and robot process automation. Alongside my technical pursuits, I have a passion for Thai culture and language, constantly immersing myself in learning about Thailand and its rich heritage. With a keen interest in becoming a skilled and innovative Software Engineer, I am excited to embark on the next chapter of my career journey.
+I'm a software developer in the fintech industry, focusing primarily on backend development using Java. My current work involves enhancing credit card systems that support critical financial operations, as well as performing ETL processes using Java and Python to extract, transform, and load data for reporting, analytics, and platform functionality.
+
+I collaborate with clients across ASEAN and work closely with colleagues from different parts of Asia, which has helped me grow in cross-cultural communication and remote collaboration.
+
+I enjoy solving complex backend challenges and continuously seek opportunities to build scalable, impactful systems.
 
 ### Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tanxuanyun)  
